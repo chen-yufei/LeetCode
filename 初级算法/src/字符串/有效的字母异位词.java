@@ -63,9 +63,4 @@ public class 有效的字母异位词 {
         return Arrays.equals(sChar, tChar);
     }
 
-
-
-
-
-
 }
